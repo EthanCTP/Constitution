@@ -18,13 +18,15 @@ This club's purpose is to include students interested in participating in the FI
 * To represent Roosevelt High School well and leave a respectable image as representatives of our school.
 * To uphold the values of the FIRST organization.
 
+The mission statement of The Iron Riders shall be: The Iron Riders work together to foster a diverse community where everyone can have fun, learn practical life skills, and develop a robot we are proud of.
+
 ## Article 3: Organization
 
 A student leadership team will govern the Iron Riders Robotics Club with the advice and consent of the faculty advisors. The student leadership team is outlined in Articles 4 and 11. Each member of the leadership team must be actively participating as a FIRST member for the current FIRST season.
 
 ## Article 4: Leadership Team
 
-The club will consist of one Team Captain, a VP/Communications Lead, a Project Manager, Build Specialist, Software Lead, CAD Specialist, Business Manager, and a Strategy Lead. They communicate and organize meetings.
+The club will consist of one Team Captain, VP/Communications Lead, Project Manager, Build Specialist, Software Lead, CAD Specialist, Business Manager, and Strategy Lead. Together they will communicate and organize meetings.
 
 These leads are responsible for organizing meetings and creating agendas for each meeting. Each lead will have meeting responsibilities divvied up in the by-laws.
 
@@ -112,7 +114,7 @@ There will be a folder, accessible to all, in which important documents will be 
 This Bylaw establishes the chain of club command, in order of succession for the presidency. Should one member of this list be absent at a meeting, or resign from office, the next member down will take command.
 
 * Team Captain
-* Communications Lead
+* VP/Communications Lead
 * Project Manager
 * Business Lead
 * Strategy Lead
@@ -151,27 +153,26 @@ The following leads are responsible for maintaining the following roles.
   * Manages daily list of tasks for projects assigned to them (displays and allows sign-ups)
   * Must hold status updates at a minimum 1 per week during a project managed by them
 * Communications Lead
-  * Stand in for/help out Team Captain when needed
-  * Communication with our team 
+  * Stand in for/aid Team Captain when needed
+  * Communication within our team and community
   * Send/Post announcements (big announcements and updates)
-  * Outreach (coordinating with other teams and with our team)
-  * Mentor Communication
+  * Mentor communication
   * Roosevelt community communications
   * Alumni relations
   * Parental contact
   * Booster club contact
-  * Food/Transportation
+  * Food/Transportation logistics
   * Regular all-team updates (ex: Iron Update)
-  * Communications
   * Help lead team
-  * Help lead Meetings
+  * Help lead meetings
   * Documentation
   * Update website
   * Leads Meetings Minutes
-  * Other Meeting Minutes When Necessary
+  * Other Meeting Minutes when necessary
   * Chairman's Award
-  * Appoints a separate outreach coordinator
-  * In charge of social media
+  * Outreach (coordinating with other teams and with our team)
+  * Appointing a separate outreach coordinator if necessary. (This shall be determined on a year to year basis by the Communications lead)
+  * Social Media management
 * Business Manager
   * Grant writing
   * Treasurer

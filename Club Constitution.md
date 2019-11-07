@@ -133,7 +133,7 @@ The following leads are responsible for maintaining the following roles.
   * Paperwork, forms etc...
   * Post agendas for meeting/announce about meetings
   * Contacting people on an individual level
-  * Communication with other teams → 17-18 leads can decide this
+  * Communication with other teams
   * Recruit new members
   * Ensure diversity and inclusion
   * Mentor Recruitment
@@ -167,9 +167,9 @@ The following leads are responsible for maintaining the following roles.
   * Booster club contact
   * Food/Transportation
   * Regular all-team updates (ex: Iron Update)
-  * Communications
   * Help lead team
   * Help lead Meetings
+  * Communication with other teams
   * Documentation
   * Update website
   * Leads Meetings Minutes

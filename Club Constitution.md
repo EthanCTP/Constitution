@@ -46,11 +46,11 @@ Club meetings will start 15 minutes after school ends. Meetings will be held eve
 
 ### Leadership Meetings
 
-Leadership meetings will be held on Mondays from 3:30-4:30, unless otherwise noted. Any member can attend these meetings and contribute to discussions, but the leads reserve the right to kick out any member that they feel are not contributing positively to the conversation. A meeting agenda will be posted to the team announcements forum at least 24 hours in advance and a summary will be posted within one school day. Both of these jobs will be done by the Team Captain, VP/Communications Lead, and project manager (or otherwise delegated). In the case of a lead being absent from a leadership meeting, they must appoint a representative to attend the meeting, vote in their place, and inform the lead of what happened while they were gone. This should be done 24 hours in advance.
+Leadership meetings will be held on Wednesdays from 2:35 to 3:35, unless otherwise noted. Any member can attend these meetings and contribute to discussions, but the leads reserve the right to kick out any member that they feel are not contributing positively to the conversation. A meeting agenda will be posted to the team announcements forum at least 24 hours in advance and a summary will be posted within one school day. Both of these jobs will be done by the Team Captain, VP/Communications Lead, and project manager (or otherwise delegated). In the case of a lead being absent from a leadership meeting, they must appoint a representative to attend the meeting, vote in their place, and inform the lead of what happened while they were gone. This should be done 24 hours in advance.
 
 ## Article 7: Advisor(s)
 
-The Iron Riders Robotics Club advisors shall be Mr. K Ruff (Engineering and Technology) and Ms. A Myers (Computer Science).
+The Iron Riders Robotics Club advisor shall be Mr. K Ruff (Engineering and Technology).
 
 ## Article 8: Finances
 
@@ -146,8 +146,13 @@ The following leads are responsible for maintaining the following roles.
   * Required to create meeting agendas 24 hours in advance of meeting
   * In charge of psychological safety (by working with the other team leaders, mentors, and members) 
 * Project Manager
-  * PMs main responsibility is managing the construction of the robot during build season by keeping track of the tasks and timelines and preparing for it ahead of time. They communicate directly with the engineering leads (aka the people managers) not with the individual members of their departments. Off season, the PM becomes a “consultant” who is only responsible for managing a project if requested by another lead/people manager.
-  * PM is held responsible for using some type of PM system that is accessible to the entire team digitally all the time and displayed if needed during work meetings. Project manager would be responsible for helping the department leads set up ad hoc groups (not assigning people to them or helping them, but keeping track of the progress of those working groups and helping department leads know what pieces of a project should be broken into ad hoc groups) → PM holds accountable the working groups/ad hoc groups for delivering their projects (ie interdepartmental groups working on pieces of a project). Additionally they would be responsible for advising working groups (working on projects nobody has asked the PM to manage themselves) on how to PM their project.
+  * Manages the construction of the robot during build season by keeping track of the tasks and timelines and preparing for it ahead of time
+  * Communicate directly with the engineering leads, not with the individual members of their departments 
+  * Off season, the PM is only responsible for managing a project if requested by another lead/people manager
+  * PM is held responsible for using a Project Management system that is accessible to the entire team digitally and displayed if needed during work meetings
+  * Responsible for assisting the department leads in setting up ad hoc groups within their departments
+  * PM holds accountable the working groups/ad hoc groups for delivering their projects
+  * Responsible for advising working groups on how to PM their project.
   * Manages daily list of tasks for projects assigned to them (displays and allows sign-ups)
   * Must hold status updates at a minimum 1 per week during a project managed by them
 * Communications Lead
